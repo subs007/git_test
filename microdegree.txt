@@ -1,4 +1,5 @@
 I am making changes from github
 
 Making additional changes to the test branch
-This is being edited locally
+This is realtime approach of git
+Changes should not be made directly on this branch 
